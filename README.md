@@ -1,4 +1,4 @@
-<h2 align="left">Olá, sou Karyne G, desenvolvedora web focado(a) em front-end. Estou sempre aprendendo e aprimorando minhas habilidades para criar interfaces interativas e experiências digitais de qualidade. Meu objetivo é continuar evoluindo na área e entregar soluções inovadoras e funcionais.</h2>
+<h2 align="left">Olá, sou Karyne G, desenvolvedora web focada em front-end. Estou sempre aprendendo e aprimorando minhas habilidades para criar interfaces interativas e experiências digitais de qualidade. Meu objetivo é continuar evoluindo na área e entregar soluções inovadoras e funcionais.</h2>
 
 ###
 
